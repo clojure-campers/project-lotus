@@ -1,0 +1,14 @@
+*.iml
+.idea/
+.calva/
+.lsp/
+target/
+.nrepl*
+.cpcache
+project.clj
+.clj-kondo/
+.cache
+test-out/
+.vscode/
+/.out/
+/node_modules/
